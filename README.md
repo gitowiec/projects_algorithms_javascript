@@ -19,3 +19,4 @@ Design a queuing system. The queue should implement add, view and delete. A view
 Insertion sort. An O(n<sup>2</sup>) sorting algorithm which moves elements one at a time into the correct position. The algorithm consists of inserting one element at a time into the previously sorted part of the array, moving higher ranked elements up as necessary. To start off, the first (or smallest, or any arbitrary) element of the unsorted array is considered to be the sorted part.
 
 ## Question 6
+Selection sort.
