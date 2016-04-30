@@ -20,5 +20,3 @@ Insertion sort. An O(n<sup>2</sup>) sorting algorithm which moves elements one a
 
 ## Question 6
 Selection sort. This sorting algorithm is a in-place comparison based algorithm in which the list is divided into two parts, sorted part at left end and unsorted part at right end. Initially sorted part is empty and unsorted part is entire list. It has O(n<sup>2</sup>) time complexity, making it inefficient on large lists, and generally performs worse than the similar insertion sort. Selection sort is noted for its simplicity, and it has performance advantages over more complicated algorithms in certain situations, particularly where auxiliary memory is limited.
-
-## Question 7
